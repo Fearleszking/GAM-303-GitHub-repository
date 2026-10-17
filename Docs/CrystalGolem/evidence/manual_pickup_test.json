@@ -1,0 +1,218 @@
+[
+  {
+    "elapsed": 0,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossArenaTrigger_C_0' (0x00000206ADD46900) Class 'BP_BossArenaTrigger_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 1,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossArenaTrigger_C_0' (0x00000206ADD46900) Class 'BP_BossArenaTrigger_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 2,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossArenaTrigger_C_0' (0x00000206ADD46900) Class 'BP_BossArenaTrigger_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 3,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossArenaTrigger_C_0' (0x00000206ADD46900) Class 'BP_BossArenaTrigger_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 4,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossArenaTrigger_C_0' (0x00000206ADD46900) Class 'BP_BossArenaTrigger_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 5,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossArenaTrigger_C_0' (0x00000206ADD46900) Class 'BP_BossArenaTrigger_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 6,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossArenaTrigger_C_0' (0x00000206ADD46900) Class 'BP_BossArenaTrigger_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 7,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossArenaTrigger_C_0' (0x00000206ADD46900) Class 'BP_BossArenaTrigger_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 8,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossArenaTrigger_C_0' (0x00000206ADD46900) Class 'BP_BossArenaTrigger_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 9,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossArenaTrigger_C_0' (0x00000206ADD46900) Class 'BP_BossArenaTrigger_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 10,
+    "holding": true,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 11,
+    "holding": true,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 12,
+    "holding": true,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 13,
+    "holding": true,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 14,
+    "holding": true,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 15,
+    "holding": true,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 16,
+    "holding": true,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 17,
+    "holding": true,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 18,
+    "holding": true,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 19,
+    "holding": true,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 20,
+    "holding": true,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 21,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 22,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 23,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 24,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 25,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 26,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 27,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 28,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 29,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 30,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 31,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 32,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 33,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 34,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  },
+  {
+    "elapsed": 35,
+    "holding": false,
+    "target": "<Object '/Game/Maps/UEDPIE_0_LV_ExoLuna_Alpha.LV_ExoLuna_Alpha:PersistentLevel.BP_BossCrystal_C_0' (0x000002078B92C000) Class 'BP_BossCrystal_C'>",
+    "health": 60.0
+  }
+]

@@ -1,0 +1,500 @@
+[
+  {
+    "label": "route_start",
+    "elapsed": 0.0,
+    "position": [
+      12300.0,
+      0.0,
+      3110.0
+    ],
+    "holding": false,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 120,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(12450, 1300)",
+    "elapsed": 2.34,
+    "position": [
+      12447.605266319119,
+      1279.2456414315131,
+      3092.1500034332275
+    ],
+    "holding": false,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 118,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "await_native_pickup_(0, 0)",
+    "elapsed": 2.34,
+    "position": [
+      12447.605266319119,
+      1279.2456414315131,
+      3092.1500034332275
+    ],
+    "holding": false,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 118,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "native_pickup_(0, 0)",
+    "elapsed": 12.24,
+    "position": [
+      12447.605266319119,
+      1279.2456414315131,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 108,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(12450, 0)",
+    "elapsed": 14.53,
+    "position": [
+      12449.96096968417,
+      20.849650958902544,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 106,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(12450, -1600)",
+    "elapsed": 17.39,
+    "position": [
+      12449.9994697807,
+      -1577.9810694000732,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 103,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(15150, -1600)",
+    "elapsed": 22.06,
+    "position": [
+      15125.593978211542,
+      -1599.8009650390939,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 98,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(15150, -1450)",
+    "elapsed": 22.49,
+    "position": [
+      15146.096998449855,
+      -1473.9561123001563,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 98,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "await_native_drop_0",
+    "elapsed": 22.49,
+    "position": [
+      15146.096998449855,
+      -1473.9561123001563,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 98,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "native_drop_0",
+    "elapsed": 37.0,
+    "position": [
+      15146.096998449855,
+      -1473.9561123001563,
+      3092.1500034332275
+    ],
+    "holding": false,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 84,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "completed_0",
+    "elapsed": 37.81,
+    "position": [
+      15146.096998449855,
+      -1473.9561123001563,
+      3092.1500034332275
+    ],
+    "holding": false,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 83,
+    "health": 100.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(15150, -1600)",
+    "elapsed": 38.2,
+    "position": [
+      15149.315196255688,
+      -1577.8848854830046,
+      3092.1500034332275
+    ],
+    "holding": false,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 82,
+    "health": 100.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(13550, -1600)",
+    "elapsed": 41.03,
+    "position": [
+      13572.280612357134,
+      -1599.6919067017268,
+      3092.1500034332275
+    ],
+    "holding": false,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 79,
+    "health": 100.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(13550, -1500)",
+    "elapsed": 41.36,
+    "position": [
+      13555.444457976622,
+      -1524.3605690879726,
+      3092.1500034332275
+    ],
+    "holding": false,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 79,
+    "health": 100.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "await_native_pickup_(1, 0)",
+    "elapsed": 41.36,
+    "position": [
+      13555.444457976622,
+      -1524.3605690879726,
+      3092.1500034332275
+    ],
+    "holding": false,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 79,
+    "health": 100.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "native_pickup_(1, 0)",
+    "elapsed": 59.34,
+    "position": [
+      13555.444457976622,
+      -1524.3605690879726,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 61,
+    "health": 50.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(13550, -1600)",
+    "elapsed": 59.61,
+    "position": [
+      13551.680787094947,
+      -1576.6489557100622,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 61,
+    "health": 50.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(15550, -1600)",
+    "elapsed": 63.11,
+    "position": [
+      15526.595235787134,
+      -1599.7265073156404,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 57,
+    "health": 50.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(15550, 1450)",
+    "elapsed": 68.36,
+    "position": [
+      15549.828747260502,
+      1427.685140759813,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 52,
+    "health": 50.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(15150, 1450)",
+    "elapsed": 71.69,
+    "position": [
+      15157.714468219754,
+      1430.9568898279636,
+      3092.149996586083
+    ],
+    "holding": true,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 49,
+    "health": 50.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "await_native_drop_1",
+    "elapsed": 71.69,
+    "position": [
+      15157.714468219754,
+      1430.9568898279636,
+      3092.149996586083
+    ],
+    "holding": true,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 49,
+    "health": 50.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "native_drop_1",
+    "elapsed": 83.91,
+    "position": [
+      15157.714468219754,
+      1430.9568898279636,
+      3092.149996586083
+    ],
+    "holding": false,
+    "progress": 1,
+    "boss_health": 2,
+    "remaining": 37,
+    "health": 50.0,
+    "pedestals": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "completed_1",
+    "elapsed": 84.72,
+    "position": [
+      15157.714468219754,
+      1430.9568898279636,
+      3092.149996586083
+    ],
+    "holding": false,
+    "progress": 2,
+    "boss_health": 1,
+    "remaining": 36,
+    "health": 50.0,
+    "pedestals": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(15550, 1450)",
+    "elapsed": 87.25,
+    "position": [
+      15529.979158075848,
+      1436.421291376767,
+      3092.1499970466384
+    ],
+    "holding": false,
+    "progress": 2,
+    "boss_health": 1,
+    "remaining": 33,
+    "health": 50.0,
+    "pedestals": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(15550, 200)",
+    "elapsed": 89.47,
+    "position": [
+      15549.64597095317,
+      221.86366851667543,
+      3092.1499970466384
+    ],
+    "holding": false,
+    "progress": 2,
+    "boss_health": 1,
+    "remaining": 31,
+    "health": 50.0,
+    "pedestals": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "label": "await_native_pickup_(2, 180)",
+    "elapsed": 89.49,
+    "position": [
+      15549.64597095317,
+      221.86366851667543,
+      3092.1499970466384
+    ],
+    "holding": false,
+    "progress": 2,
+    "boss_health": 1,
+    "remaining": 31,
+    "health": 50.0,
+    "pedestals": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "error": "Traceback (most recent call last):\n  File \"runtime_live_boss_run.py\", line 33, in tick\nRuntimeError: Route exceeded 115-second test limit\n",
+    "step": 22
+  }
+]

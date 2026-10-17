@@ -1,0 +1,174 @@
+[
+  {
+    "label": "initial",
+    "time": 0.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A377B0) {x: 0.000000, y: 0.000000, z: 102.150002}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 0,
+    "interval": 4.0,
+    "encounter": 0,
+    "remaining": 120,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "one_original_cube",
+    "time": 2.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A8B440) {x: 0.000000, y: 0.000000, z: 102.150002}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 0,
+    "interval": 4.0,
+    "encounter": 0,
+    "remaining": 120,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "two_original_cubes",
+    "time": 4.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A8B490) {x: 0.000000, y: 0.000000, z: 102.150002}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 0,
+    "interval": 4.0,
+    "encounter": 0,
+    "remaining": 120,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "three_original_cubes",
+    "time": 6.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A8B350) {x: 0.000000, y: 0.000000, z: 102.150002}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 0,
+    "interval": 4.0,
+    "encounter": 0,
+    "remaining": 120,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "teleported",
+    "time": 7.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A8B3F0) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 1,
+    "interval": 4.0,
+    "encounter": 1,
+    "remaining": 120,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "projectile_damage",
+    "time": 13.0,
+    "player_health": 90.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A13350) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 1,
+    "interval": 4.0,
+    "encounter": 1,
+    "remaining": 114,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "pickup",
+    "time": 13.41,
+    "player_health": 90.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A8A770) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 1,
+    "interval": 4.0,
+    "encounter": 1,
+    "remaining": 114,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": true
+  },
+  {
+    "error": "Traceback (most recent call last):\n  File \"C:/Users/Aaron m/Documents/Codex/2026-10-11/he/work/runtime_sequence.py\", line 46, in tick\n    fn=steps[index][1];index+=1;fn()\n                                ^^^^\n  File \"C:/Users/Aaron m/Documents/Codex/2026-10-11/he/work/runtime_sequence.py\", line 37, in drop\n    crystals[0].call_method('INT_Drop',(pawn,))\nTypeError: int_drop() takes at most 0 arguments (1 given)\n",
+    "step": 13
+  }
+]

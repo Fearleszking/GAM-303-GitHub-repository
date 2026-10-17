@@ -1,0 +1,21 @@
+[
+  {
+    "label": "begin_120",
+    "elapsed": 0.02,
+    "health": 100.0,
+    "boss_health": 3,
+    "encounter": 1,
+    "remaining": 79,
+    "progress": 0,
+    "shots": 0,
+    "widgets_in_viewport": {
+      "WBP_BossHUD": 1,
+      "WBP_VictoryScreen": 0,
+      "WBP_DefeatScreen": 0
+    }
+  },
+  {
+    "error": "Traceback (most recent call last):\n  File \"C:/Users/Aaron m/Documents/Codex/2026-10-11/he/work/runtime_final_checks.py\", line 57, in tick\n    fn=steps[index][1];index+=1;fn()\n                                ^^^^\n  File \"C:/Users/Aaron m/Documents/Codex/2026-10-11/he/work/runtime_final_checks.py\", line 22, in isolated_shot\n    shot=unreal.GameplayStatics.begin_deferred_actor_spawn_from_class(world,cls('BP_GolemProjectile'),transform,unreal.SpawnActorCollisionHandlingMethod.ALWAYS_SPAWN,boss)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: type object 'GameplayStatics' has no attribute 'begin_deferred_actor_spawn_from_class'\n",
+    "step": 2
+  }
+]

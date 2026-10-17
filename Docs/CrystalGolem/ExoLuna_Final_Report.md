@@ -35,3 +35,5 @@ The current local revisions subsequently passed an additional scripted regressio
 ## Submission work
 
 Transfer final scope, original phase schedule and evidence into the course matrix/test template. Retain pending statuses. Add Aaron's personal postmortem reflection and factual AI acknowledgment. Confirm instructor access, execute remaining acceptance checks, and review the draft PR. Do not report submission readiness until those checks are complete.
+
+Source-control follow-up: commits `e2170a2` and `619ca9d` were pushed successfully with existing LFS filters. Remote main already contains the encounter via merge `26ba09a` / PR #7; this agent did not perform that merge. The proposed new PR covers concise comments and verification documentation. Its creation was blocked by the GitHub integration's HTTP 403 permission response; browser fallback was signed out. `ExoLuna_PR_Draft.md` contains the prepared description and compare link. No new PR is reported as created.

@@ -1,0 +1,386 @@
+[
+  {
+    "label": "initial",
+    "time": 0.02,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEBE3800) {x: 0.000000, y: 0.000000, z: 102.150002}>",
+    "door_unlocked": false,
+    "plates": [
+      false,
+      false,
+      false
+    ],
+    "boss_health": 3,
+    "boss_state": 0,
+    "interval": 4.0,
+    "encounter": 0,
+    "remaining": 120,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "one_original_cube",
+    "time": 1.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEBFAC70) {x: 0.000000, y: 0.000000, z: 102.150002}>",
+    "door_unlocked": false,
+    "plates": [
+      true,
+      false,
+      false
+    ],
+    "boss_health": 3,
+    "boss_state": 0,
+    "interval": 4.0,
+    "encounter": 0,
+    "remaining": 120,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "two_original_cubes",
+    "time": 2.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEBF80B0) {x: 0.000000, y: 0.000000, z: 102.150002}>",
+    "door_unlocked": false,
+    "plates": [
+      true,
+      true,
+      false
+    ],
+    "boss_health": 3,
+    "boss_state": 0,
+    "interval": 4.0,
+    "encounter": 0,
+    "remaining": 120,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "three_original_cubes",
+    "time": 3.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEBF8D80) {x: 0.000000, y: 0.000000, z: 102.150002}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 0,
+    "interval": 4.0,
+    "encounter": 0,
+    "remaining": 120,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "teleported",
+    "time": 4.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEBF8D80) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 1,
+    "interval": 4.0,
+    "encounter": 1,
+    "remaining": 120,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "combat_active",
+    "time": 8.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEBF8D80) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 1,
+    "interval": 4.0,
+    "encounter": 1,
+    "remaining": 116,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "incorrect_color",
+    "time": 9.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEC66D60) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 1,
+    "interval": 4.0,
+    "encounter": 1,
+    "remaining": 115,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "first_correct",
+    "time": 10.0,
+    "player_health": 90.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEC66EA0) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 2,
+    "boss_state": 2,
+    "interval": 3.0,
+    "encounter": 1,
+    "remaining": 114,
+    "progress": 1,
+    "pedestals": [
+      true,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "duplicate_and_stun",
+    "time": 12.0,
+    "player_health": 90.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEC67170) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 2,
+    "boss_state": 2,
+    "interval": 3.0,
+    "encounter": 1,
+    "remaining": 112,
+    "progress": 1,
+    "pedestals": [
+      true,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "resume_phase_two",
+    "time": 16.0,
+    "player_health": 90.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEC67260) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 2,
+    "boss_state": 1,
+    "interval": 3.0,
+    "encounter": 1,
+    "remaining": 108,
+    "progress": 1,
+    "pedestals": [
+      true,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "second_correct",
+    "time": 17.0,
+    "player_health": 90.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEC67350) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 1,
+    "boss_state": 2,
+    "interval": 2.5,
+    "encounter": 1,
+    "remaining": 107,
+    "progress": 2,
+    "pedestals": [
+      true,
+      true,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "resume_phase_three",
+    "time": 23.0,
+    "player_health": 90.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEC673F0) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 1,
+    "boss_state": 1,
+    "interval": 2.5,
+    "encounter": 1,
+    "remaining": 101,
+    "progress": 2,
+    "pedestals": [
+      true,
+      true,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "victory",
+    "time": 24.0,
+    "player_health": 90.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEC67490) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 0,
+    "boss_state": 3,
+    "interval": 2.5,
+    "encounter": 2,
+    "remaining": 101,
+    "progress": 3,
+    "pedestals": [
+      true,
+      true,
+      true
+    ],
+    "holding": false
+  },
+  {
+    "label": "retry_after_victory",
+    "time": 26.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEC67530) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 1,
+    "interval": 4.0,
+    "encounter": 1,
+    "remaining": 119,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "health_defeat",
+    "time": 27.0,
+    "player_health": 0.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEC67620) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 0,
+    "interval": 4.0,
+    "encounter": 3,
+    "remaining": 119,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "retry_after_defeat",
+    "time": 29.0,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x000001FFFEC676C0) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 1,
+    "interval": 4.0,
+    "encounter": 1,
+    "remaining": 119,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  }
+]

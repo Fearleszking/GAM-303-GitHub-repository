@@ -1,0 +1,242 @@
+[
+  {
+    "label": "incorrect_color",
+    "time": 1.5,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A8B490) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 1,
+    "interval": 4.0,
+    "encounter": 1,
+    "remaining": 119,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "first_correct",
+    "time": 2.5,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A8B350) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 2,
+    "boss_state": 2,
+    "interval": 3.0,
+    "encounter": 1,
+    "remaining": 118,
+    "progress": 1,
+    "pedestals": [
+      true,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "stun_and_duplicate",
+    "time": 4.5,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A8A5E0) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 2,
+    "boss_state": 2,
+    "interval": 3.0,
+    "encounter": 1,
+    "remaining": 116,
+    "progress": 1,
+    "pedestals": [
+      true,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "resume_phase_two",
+    "time": 8.5,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x00000249008A3C10) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 2,
+    "boss_state": 1,
+    "interval": 3.0,
+    "encounter": 1,
+    "remaining": 112,
+    "progress": 1,
+    "pedestals": [
+      true,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "second_correct",
+    "time": 9.5,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x00000249D07FCB00) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 1,
+    "boss_state": 2,
+    "interval": 2.5,
+    "encounter": 1,
+    "remaining": 111,
+    "progress": 2,
+    "pedestals": [
+      true,
+      true,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "resume_phase_three",
+    "time": 15.5,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A7BC10) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 1,
+    "boss_state": 1,
+    "interval": 2.5,
+    "encounter": 1,
+    "remaining": 105,
+    "progress": 2,
+    "pedestals": [
+      true,
+      true,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "victory",
+    "time": 16.5,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A37710) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 0,
+    "boss_state": 0,
+    "interval": 2.5,
+    "encounter": 2,
+    "remaining": 105,
+    "progress": 3,
+    "pedestals": [
+      true,
+      true,
+      true
+    ],
+    "holding": false
+  },
+  {
+    "label": "retry_after_victory",
+    "time": 18.5,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A34330) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 1,
+    "interval": 4.0,
+    "encounter": 1,
+    "remaining": 119,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "health_defeat",
+    "time": 19.5,
+    "player_health": 0.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A34740) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 0,
+    "interval": 4.0,
+    "encounter": 3,
+    "remaining": 119,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  },
+  {
+    "label": "retry_after_defeat",
+    "time": 21.5,
+    "player_health": 100.0,
+    "player_position": "<Struct 'Vector' (0x0000024934A138F0) {x: 12300.000000, y: 0.000000, z: 3092.150003}>",
+    "door_unlocked": true,
+    "plates": [
+      true,
+      true,
+      true
+    ],
+    "boss_health": 3,
+    "boss_state": 1,
+    "interval": 4.0,
+    "encounter": 1,
+    "remaining": 120,
+    "progress": 0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ],
+    "holding": false
+  }
+]

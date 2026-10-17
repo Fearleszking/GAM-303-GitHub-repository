@@ -1,0 +1,139 @@
+[
+  {
+    "label": "route_start",
+    "elapsed": 0.0,
+    "position": [
+      12300.0,
+      0.0,
+      3110.0
+    ],
+    "holding": false,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 120,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(12450, 1300)",
+    "elapsed": 2.34,
+    "position": [
+      12447.424074015613,
+      1277.6753081357103,
+      3092.1500034332275
+    ],
+    "holding": false,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 118,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "pickup_0",
+    "elapsed": 2.36,
+    "position": [
+      12447.424074015613,
+      1277.6753081357103,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 118,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(12450, 0)",
+    "elapsed": 4.66,
+    "position": [
+      12449.955817421443,
+      21.914833754131728,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 116,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(12450, -1600)",
+    "elapsed": 7.53,
+    "position": [
+      12449.999420396578,
+      -1578.7231215350641,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 113,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(15150, -1600)",
+    "elapsed": 12.19,
+    "position": [
+      15126.231306624328,
+      -1599.8126950030885,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 108,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "label": "waypoint_(15150, -1450)",
+    "elapsed": 12.61,
+    "position": [
+      15146.37726885801,
+      -1472.8338641535904,
+      3092.1500034332275
+    ],
+    "holding": true,
+    "progress": 0,
+    "boss_health": 3,
+    "remaining": 108,
+    "health": 100.0,
+    "pedestals": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "error": "Traceback (most recent call last):\n  File \"C:/Users/Aaron m/Documents/Codex/2026-10-11/he/work/runtime_carry_routes.py\", line 43, in tick\n    else:value()\n         ^^^^^^^\n  File \"C:/Users/Aaron m/Documents/Codex/2026-10-11/he/work/runtime_carry_routes.py\", line 27, in <lambda>\n    steps=[('walk',(12450,1300)),('act',lambda:pickup(0,0)),('walk',(12450,0)),('walk',(12450,-1600)),('walk',(15150,-1600)),('walk',(15150,-1450)),('act',lambda:drop(0)),('wait',0.8),('act',lambda:confirm(0)),('walk',(15150,-1600)),('walk',(13550,-1600)),('walk',(13550,-1500)),('act',lambda:pickup(1,0)),('walk',(13550,-1600)),('walk',(15550,-1600)),('walk',(15550,1450)),('walk',(15150,1450)),('act',lambda:drop(1)),('wait',0.8),('act',lambda:confirm(1)),('walk',(15550,1450)),('walk',(15550,200)),('act',lambda:pickup(2,180)),('walk',(15550,1600)),('walk',(12750,1600)),('walk',(12750,1450)),('act',lambda:drop(2)),('wait',0.8),('act',lambda:confirm(2)),('act',lambda:save('route_complete'))]\n                                                                                                                                                                  ^^^^^^^\n  File \"C:/Users/Aaron m/Documents/Codex/2026-10-11/he/work/runtime_carry_routes.py\", line 20, in drop\n    crystals[i].call_method('INT_Drop');pawn.set_editor_property('IsHolding',False);save('drop_'+str(i))\n                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nException: Character: Property 'IsHolding' for attribute 'IsHolding' on 'BP_Player_C' cannot be edited on instances\n",
+    "step": 6
+  }
+]

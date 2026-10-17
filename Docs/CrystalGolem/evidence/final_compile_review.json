@@ -1,0 +1,56 @@
+{
+  "/Game/ExoLuna/Boss/BP_CrystalGolem.BP_CrystalGolem": {
+    "returnValue": null
+  },
+  "/Game/ExoLuna/Boss/BP_GolemProjectile.BP_GolemProjectile": {
+    "returnValue": null
+  },
+  "/Game/ExoLuna/Boss/BP_BossCrystal.BP_BossCrystal": {
+    "returnValue": null
+  },
+  "/Game/ExoLuna/Boss/BP_CrystalPedestal.BP_CrystalPedestal": {
+    "returnValue": null
+  },
+  "/Game/ExoLuna/Boss/BP_BossEncounterManager.BP_BossEncounterManager": {
+    "returnValue": null
+  },
+  "/Game/ExoLuna/Boss/BP_BossArenaTrigger.BP_BossArenaTrigger": {
+    "returnValue": null
+  },
+  "/Game/ExoLuna/Boss/WBP_BossHUD.WBP_BossHUD": {
+    "returnValue": null
+  },
+  "/Game/ExoLuna/Boss/WBP_VictoryScreen.WBP_VictoryScreen": {
+    "returnValue": null
+  },
+  "/Game/ExoLuna/Boss/WBP_DefeatScreen.WBP_DefeatScreen": {
+    "returnValue": null
+  },
+  "/Game/Characters/Blueprints/BP_Player.BP_Player": {
+    "returnValue": null
+  },
+  "/Game/Blueprints/Player/Player_Widget.Player_Widget": {
+    "returnValue": null
+  },
+  "/Game/ExoLuna/Blueprints/BP_ShrineObjective.BP_ShrineObjective": {
+    "returnValue": null
+  },
+  "/Game/LevelPrototyping/Interactable/BP_PhysicsPickup.BP_PhysicsPickup": {
+    "returnValue": null
+  },
+  "/Game/Module03/BP_GunTurret.BP_GunTurret": {
+    "returnValue": null
+  },
+  "/Game/Module03/BP_TurretProjectile.BP_TurretProjectile": {
+    "returnValue": null
+  },
+  "/Game/Module04/BP_Button.BP_Button": {
+    "returnValue": null
+  },
+  "/Game/Module04/BP_ColorPickup.BP_ColorPickup": {
+    "returnValue": null
+  },
+  "/Game/Module04/BP_PuzzleDoor.BP_PuzzleDoor": {
+    "returnValue": null
+  }
+}

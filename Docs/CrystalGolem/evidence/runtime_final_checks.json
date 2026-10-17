@@ -1,0 +1,128 @@
+[
+  {
+    "label": "begin_120",
+    "elapsed": 0.0,
+    "health": 100.0,
+    "boss_health": 3,
+    "encounter": 1,
+    "remaining": 120,
+    "progress": 0,
+    "shots": 0,
+    "widgets_in_viewport": {
+      "WBP_BossHUD": 1,
+      "WBP_VictoryScreen": 0,
+      "WBP_DefeatScreen": 0
+    }
+  },
+  {
+    "label": "projectile_config",
+    "speed": 899.9999999999985,
+    "lifespan": 2.0,
+    "owner_is_boss": true
+  },
+  {
+    "label": "projectile_after_movement_update",
+    "speed": 1199.999999999998,
+    "movement_speed": 1199.999999999998
+  },
+  {
+    "label": "projectile_expired",
+    "valid": false
+  },
+  {
+    "label": "retry_once",
+    "elapsed": 3.2,
+    "health": 100.0,
+    "boss_health": 3,
+    "encounter": 1,
+    "remaining": 120,
+    "progress": 0,
+    "shots": 0,
+    "widgets_in_viewport": {
+      "WBP_BossHUD": 1,
+      "WBP_VictoryScreen": 0,
+      "WBP_DefeatScreen": 0
+    }
+  },
+  {
+    "label": "retry_twice",
+    "elapsed": 3.41,
+    "health": 100.0,
+    "boss_health": 3,
+    "encounter": 1,
+    "remaining": 120,
+    "progress": 0,
+    "shots": 0,
+    "widgets_in_viewport": {
+      "WBP_BossHUD": 1,
+      "WBP_VictoryScreen": 0,
+      "WBP_DefeatScreen": 0
+    }
+  },
+  {
+    "label": "one_second_after_retry",
+    "elapsed": 4.41,
+    "health": 100.0,
+    "boss_health": 3,
+    "encounter": 1,
+    "remaining": 119,
+    "progress": 0,
+    "shots": 0,
+    "widgets_in_viewport": {
+      "WBP_BossHUD": 1,
+      "WBP_VictoryScreen": 0,
+      "WBP_DefeatScreen": 0
+    }
+  },
+  {
+    "label": "wall_west",
+    "position": [
+      11986.600002646446,
+      0.0,
+      3095.0
+    ],
+    "inside": true
+  },
+  {
+    "label": "wall_east",
+    "position": [
+      16013.399997353554,
+      0.0,
+      3095.0
+    ],
+    "inside": true
+  },
+  {
+    "label": "wall_north",
+    "position": [
+      14000.0,
+      2013.3999973535538,
+      3095.0
+    ],
+    "inside": true
+  },
+  {
+    "label": "wall_south",
+    "position": [
+      14000.0,
+      -2013.3999973535538,
+      3095.0
+    ],
+    "inside": true
+  },
+  {
+    "label": "victory_widgets",
+    "elapsed": 6.0,
+    "health": 100.0,
+    "boss_health": 0,
+    "encounter": 2,
+    "remaining": 119,
+    "progress": 3,
+    "shots": 0,
+    "widgets_in_viewport": {
+      "WBP_BossHUD": 1,
+      "WBP_VictoryScreen": 1,
+      "WBP_DefeatScreen": 0
+    }
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "BP_CrystalGolem": {
+    "returnValue": null
+  },
+  "BP_GolemProjectile": {
+    "returnValue": null
+  },
+  "BP_BossCrystal": {
+    "returnValue": null
+  },
+  "BP_CrystalPedestal": {
+    "returnValue": null
+  },
+  "BP_BossEncounterManager": {
+    "returnValue": null
+  },
+  "BP_BossArenaTrigger": {
+    "returnValue": null
+  },
+  "WBP_BossHUD": {
+    "returnValue": null
+  },
+  "WBP_VictoryScreen": {
+    "returnValue": null
+  },
+  "WBP_DefeatScreen": {
+    "returnValue": null
+  }
+}
